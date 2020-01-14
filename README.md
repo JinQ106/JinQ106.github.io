@@ -15,4 +15,3 @@
 
 # RESEARCH
 AI and Pattern Recognition, Computing Intelligence,Machine Learning.
-
