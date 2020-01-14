@@ -4,7 +4,7 @@
     <td width="75%">
       <h1>Jin Qin</h1>
       <p><b>Associate Professor</b></p>
-      <p><b>School of Computer Science and Technology, Guizhou University</b></p>
+      <p><b>School of Computer Science and Technology</b></p>
       <p><b>Email：qin_gs@163.com</b></p>
     </td>
     <td width="100%">
