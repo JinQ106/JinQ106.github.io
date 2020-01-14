@@ -7,8 +7,8 @@
       <p><b>School of Computer Science and Technology, Guizhou University</b></p>
       <p><b>Email：qin_gs@163.com</b></p>
     </td>
-    <td width="25%">
-      <img src="/2.jpg" width="10%">      
+    <td width="100%">
+      <img src="/2.jpg" width="100%">      
     </td>
   </tr>
 </table>
