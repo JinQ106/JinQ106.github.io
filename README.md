@@ -8,7 +8,7 @@
       <p><b>Email：qin_gs@163.com</b></p>
     </td>
     <td width="25%">
-      <img src="/2.jpg" width="100%">      
+      <img src="/2.jpg" width="10%">      
     </td>
   </tr>
 </table>
