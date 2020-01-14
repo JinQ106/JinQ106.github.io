@@ -20,4 +20,4 @@
 5. Qin, Jin*; Yin, Yixin; Ban, Xiaojuan: A hybrid of particle swarm optimization and local search for multimodal functions, Lecture Notes in Computer Science, vol. 6145 LNCS, no. PART 1, pp. 589-596, Beijing, 2010.06.12-15. (EI)
 6. J. Qin, X. Ban X. Li, Evolutionary dynamics of multi-agent formation, Control and Decision Conference, 2009. CCDC ''09. Chinese 17-19 June 2009 Page(s):3557 – 3561. (EI)
 # RESEARCH
-AI and Pattern Recognition, Computing Intelligence,Machine Learning.
+AI and Pattern Recognition, Computing Intelligence, Machine Learning.
